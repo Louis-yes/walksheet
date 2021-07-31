@@ -1,4 +1,5 @@
 # walksheet
+Prototype for runsheet, event management tool
 
 ## Project setup
 ```
